@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 ```yaml
 name: Javier Reyna Juárez
@@ -36,7 +36,7 @@ currently:
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ currently:
       <strong>Hackathon Mobility & AI</strong>
       <br>Noviembre 2025
       <br><br>
-      <code>RailSense</code>
+      <code>🚂 RailSense</code>
       <br><sub>AI-Powered railway analytics platform with PHI and OCR</sub>
     </td>
     <td align="center" width="50%">
@@ -55,7 +55,7 @@ currently:
       <strong>Mejores Prototipos Nivel Medio Superior</strong>
       <br>IPN — Junio 2024
       <br><br>
-      <code>UxerSii</code>
+      <code>🍎 UxerSii</code>
       <br><sub>Cross-platform app to reduce food waste in CDMX</sub>
     </td>
   </tr>
@@ -63,9 +63,9 @@ currently:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### RailSense
+### 🚂 RailSense
 > AI-Powered platform that transforms static metro maps into interactive analytics dashboards — **Open Source Winner @ Hackathon Mobility & AI 2025**
 
 `FastAPI` `Next.js 14` `React` `TypeScript` `PyTorch` `EasyOCR` `OpenCV` `Docker Compose` `Recharts`
@@ -76,7 +76,7 @@ currently:
 
 ---
 
-### NobaTrade
+### 💹 NobaTrade
 > Institutional-grade High Frequency Trading (HFT) Crypto Arbitrage Engine.
 
 `Java 21` `Spring Boot 3` `Next.js 14` `Docker` `SSE` `BigDecimal` `WebSockets`
@@ -87,7 +87,7 @@ Event-driven architecture connecting simultaneously to **Binance, Kraken, Coinba
 
 ---
 
-### BDUM — Brillo de una Estrella Muerta
+### 📖 BDUM — Brillo de una Estrella Muerta
 > Immersive digital reading experience for a serialized novel — deployed on Firebase.
 
 `React` `TypeScript` `Firebase` `Firestore` `Cloudinary` `Quill` `CSS Animations`
@@ -98,7 +98,7 @@ Full-featured Kindle-style reading platform with dual reading modes (horizontal 
 
 ---
 
-### UxerSii
+### 🍎 UxerSii
 > Cross-platform app to reduce food waste in CDMX — **3rd Place Best Prototype IPN 2024**
 
 `Django` `React` `REST API` `Python`
@@ -109,7 +109,7 @@ Connects local businesses and users to give a better destination to food that wo
 
 ---
 
-### Generative UI Global Hackathon
+### 🎨 Generative UI Global Hackathon
 > Exploring AI-driven generative interfaces in a global hackathon.
 
 `TypeScript` `AI` `Generative UI`
@@ -118,9 +118,9 @@ Connects local businesses and users to give a better destination to food that wo
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -128,14 +128,14 @@ Connects local businesses and users to give a better destination to food that wo
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI & Data
+### 🤖 AI & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-FF6B6B?style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Backend & Infrastructure
+### ⚙️ Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -144,14 +144,14 @@ Connects local businesses and users to give a better destination to food that wo
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logoColor=white)
 
-### DevOps & Tools
+### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -160,17 +160,24 @@ Connects local businesses and users to give a better destination to food that wo
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaavRJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=38bdae&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaavRJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JaavRJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=38bdae&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaavRJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaavRJ&theme=tokyonight&hide_border=true&background=0f0c29&stroke=a78bfa&ring=38bdae&fire=38bdae&currStreakLabel=a78bfa" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=JaavRJ&theme=tokyonight&hide_border=true&background=0f0c29&stroke=a78bfa&ring=38bdae&fire=38bdae&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" alt="GitHub Streak"/>
 
 <br><br>
 
@@ -180,7 +187,7 @@ Connects local businesses and users to give a better destination to food that wo
 
 ---
 
-## Trophies
+## 🏅 Trophies
 
 <div align="center">
 
