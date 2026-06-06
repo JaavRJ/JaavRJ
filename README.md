@@ -25,7 +25,7 @@ education:
   - degree: Ing. en Inteligencia Artificial
     school: ESCOM — Instituto Politécnico Nacional (IPN)
 roles:
-  - Software Craftsman
+  - Software Engineer
   - Tech Lead
   - Full Stack Developer
 currently:
@@ -87,7 +87,7 @@ Event-driven architecture connecting simultaneously to **Binance, Kraken, Coinba
 
 ---
 
-### 📖 BDUM — Brillo de una Estrella Muerta
+### 📖 BDUEM — SUPERNOBACONB
 > Immersive digital reading experience for a serialized novel — deployed on Firebase.
 
 `React` `TypeScript` `Firebase` `Firestore` `Cloudinary` `Quill` `CSS Animations`
